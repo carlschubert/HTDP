@@ -1,0 +1,1 @@
+A collection of homework and in class assignments from the edx how to design programs class taught by gregor kiczales.
